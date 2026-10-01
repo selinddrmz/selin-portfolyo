@@ -224,16 +224,16 @@ export default function Home() {
           <h2 className="text-4xl font-black mb-6 text-pink-400 drop-shadow-[0_0_10px_rgba(255,0,234,0.5)]">{t.connect}</h2>
           <div className="space-y-5">
             <a href="mailto:selink9900@gmail.com" className="flex items-center gap-4 text-gray-300 hover:text-cyan-300 transition-colors font-bold text-lg group">
-              <span className="w-12 h-12 rounded-2xl bg-[#150a21] border border-cyan-500/50 flex items-center justify-center text-2xl group-hover:scale-110 group-hover:rotate-6 group-hover:shadow-[0_0_15px_rgba(0,243,255,0.6)] transition-all">💌</span>
+              <span className="w-12 h-12 rounded-2xl bg-[#150a21] border border-cyan-500/50 flex items-center justify-center text-xl group-hover:scale-110 group-hover:rotate-6 group-hover:shadow-[0_0_15px_rgba(0,243,255,0.6)] transition-all">✉️</span>
               selink9900@gmail.com
             </a>
             <a href="https://github.com/selinddrmz" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-cyan-300 transition-colors font-bold text-lg group">
-              <span className="w-12 h-12 rounded-2xl bg-[#150a21] border border-cyan-500/50 flex items-center justify-center text-2xl group-hover:scale-110 group-hover:-rotate-6 group-hover:shadow-[0_0_15px_rgba(0,243,255,0.6)] transition-all">🌟</span>
+              <span className="w-12 h-12 rounded-2xl bg-[#150a21] border border-cyan-500/50 flex items-center justify-center text-xl group-hover:scale-110 group-hover:-rotate-6 group-hover:shadow-[0_0_15px_rgba(0,243,255,0.6)] transition-all">💻</span>
               github.com/selinddrmz
             </a>
             <a href="https://www.linkedin.com/in/selin-d-37852b374" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-cyan-300 transition-colors font-bold text-lg group">
-              <span className="w-12 h-12 rounded-2xl bg-[#150a21] border border-cyan-500/50 flex items-center justify-center text-2xl group-hover:scale-110 group-hover:rotate-6 group-hover:shadow-[0_0_15px_rgba(0,243,255,0.6)] transition-all">💼</span>
-              LinkedIn Profilim
+              <span className="w-12 h-12 rounded-2xl bg-[#150a21] border border-cyan-500/50 flex items-center justify-center text-xl group-hover:scale-110 group-hover:rotate-6 group-hover:shadow-[0_0_15px_rgba(0,243,255,0.6)] transition-all">🔗</span>
+              linkedin.com/in/selin-d-37852b374
             </a>
           </div>
         </div>
